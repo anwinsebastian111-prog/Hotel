@@ -1,1 +1,1 @@
-![](output.png)
+IMG-20261024-WA0019.jpg
