@@ -1,1 +1,1 @@
-# Hotel
+![](output.png)
